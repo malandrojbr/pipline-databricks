@@ -1,0 +1,9 @@
+{
+	"name": "databricks-datamaster",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20f24d7c-beea-47fa-8a80-142ce7a2f27f",
+		"tenantId": "9d471541-1424-4224-8780-f624800ed595"
+	}
+}
