@@ -1,1 +1,1 @@
-# databricks
+# pipeline-databricks
