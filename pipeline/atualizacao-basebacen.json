@@ -1,0 +1,7 @@
+{
+	"name": "atualizacao-basebacen",
+	"properties": {
+		"description": "faz a ingestão de dados e atualiza as bases no databricks",
+		"annotations": []
+	}
+}
