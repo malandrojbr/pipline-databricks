@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-datamaster"
+		},
+		"databricks_datafactory_link_accessToken": {
+			"value": ""
+		},
+		"databricks_datafactory_link_properties_typeProperties_existingClusterId": {
+			"value": "1008-012015-x0z3qde1"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
