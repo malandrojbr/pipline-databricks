@@ -16,7 +16,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Repos/jeanjesus@jeanjesus.onmicrosoft.com/pipline-databricks/notebooks/Requisição API"
+					"notebookPath": "/Repos/jeanjesus@jeanjesus.onmicrosoft.com/pipline-databricks/notebooks/Requisição API_v2"
 				},
 				"linkedServiceName": {
 					"referenceName": "databricks_datafactory_link",
@@ -43,7 +43,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Repos/jeanjesus@jeanjesus.onmicrosoft.com/pipline-databricks/notebooks/tratamento_bacen"
+					"notebookPath": "/Repos/jeanjesus@jeanjesus.onmicrosoft.com/pipline-databricks/notebooks/tratamento_bacen_v2"
 				},
 				"linkedServiceName": {
 					"referenceName": "databricks_datafactory_link",
